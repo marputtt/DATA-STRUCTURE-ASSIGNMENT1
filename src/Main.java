@@ -1,3 +1,10 @@
+/* Contact book using linked list - Marsya Putra - 2702367220 - Data Structure
+ * 1. create a contact book program that manage your friends contact
+ * (name, phone number, email ) -check
+ * 2. input : The program prompts as shown in the figure
+ * 3. Output : The results of the operations
+ *
+ * Due before week 6  */
 
 import java.util.LinkedList;
 import java.util.Scanner;
